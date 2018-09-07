@@ -5,15 +5,15 @@ public class Demo
         int number=109;
         if(number > 0)
         {
-            System.out.println(number+" is a positive number");
+            System.out.println(number+" positive");
         }
         else if(number < 0)
         {
-            System.out.println(number+" is a negative number");
+            System.out.println(number+" negative");
         }
         else
         {
-            System.out.println(number+" is zero");
+            System.out.println(number+" zero");
         }
     }
 }
