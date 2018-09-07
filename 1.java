@@ -13,7 +13,7 @@ public class Demo
         }
         else
         {
-            System.out.println(number+" is neither positive nor negative");
+            System.out.println(number+" is zero");
         }
     }
 }
