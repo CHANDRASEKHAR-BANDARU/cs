@@ -11,6 +11,7 @@ public class Demo
         {
             System.out.println(number+" negative");
         }
+        
         else
         {
             System.out.println(number+" zero");
