@@ -2,7 +2,7 @@ public class Demo
 {
     public static void main(String[] args) 
     {
-        int number=109;
+        int number=x;
         if(number > 0)
         {
             System.out.println(number+" positive");
